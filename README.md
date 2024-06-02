@@ -26,3 +26,6 @@ Weather app use 3rd party api in the backed and filter the required information 
 1. Spring Web
 2. Spring Dev Tools
 3. Thymeleaf
+
+### Snippets
+![Home Page](https://github.com/Gani25/weather-app/blob/master/src/main/resources/static/images/weather_app_1.png?raw=true)
