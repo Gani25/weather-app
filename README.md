@@ -29,3 +29,8 @@ Weather app use 3rd party api in the backed and filter the required information 
 
 ### Snippets
 ![Home Page](https://github.com/Gani25/weather-app/blob/master/src/main/resources/static/images/weather_app_1.png?raw=true)
+![Dashboard Page](https://github.com/Gani25/weather-app/blob/master/src/main/resources/static/images/weather_app_2.png?raw=true)
+![Dashboard Page](https://github.com/Gani25/weather-app/blob/master/src/main/resources/static/images/weather_app_4.png?raw=true)
+![Dashboard Page_with_location](https://github.com/Gani25/weather-app/blob/master/src/main/resources/static/images/weather_app_3.png?raw=true)
+
+
